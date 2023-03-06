@@ -110,4 +110,4 @@ You and the Creator agree as follows:
    7. Amendment. Any amendments of this Agreement must be submitted to all holders of the Mocaverse NFTs for voting. An amendment will only be effective upon the approval of (1) the Creator; and (2) the majority of the holders of the Mocaverse NFT that participate in such voting process.[j][k][l] For the purposes of voting among the majority of the holders, one (1) Mocaverse NFT shall be entitled to one (1) vote.[m]
 
 
-By inserting an electronic signature below, you, being the sole and absolute owner of the private keys to the wallet address ______________________________________________________, hereby agree to the terms of this Agreement.
+By inserting an electronic signature below, you, being the sole and absolute owner of the private keys to the wallet address _________________Todd Hargreaves_____________________________________, hereby agree to the terms of this Agreement.
